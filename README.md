@@ -40,7 +40,6 @@ The app has been built to be compatible with iOS16+ currently. For a wider relea
 <img width="444" alt="Screenshot 2022-11-22 at 17 30 13" src="https://user-images.githubusercontent.com/23376033/203381825-698b9d12-2b4d-4bb5-a43f-9328748ad510.png">
 <img width="435" alt="Screenshot 2022-11-22 at 17 30 24" src="https://user-images.githubusercontent.com/23376033/203381855-043ceb81-dac0-476f-a8ce-bfd318f<img width="441" alt="Screenshot 2022-11-22 at 17 30 44" src="https://user-images.githubusercontent.com/23376033/203381918-a5a160f0-e604-437a-b1fb-50c2fa6d255d.png">
 238b8.png"><img width="443" alt="Screenshot 2022-11-22 at 17 30 57" src="https://user-images.githubusercontent.com/23376033/203381950-b08eb35a-727a-4edd-9efa-682825621cc0.png">
-<img width="445" alt="Screenshot 2022-11-22 at 17 31 56" src="https://user-images.githubusercontent.com/23376033/203382128-99167fc7-1f5e-4d3c-90f3-46667a4c<img width="896" alt="Screenshot 2022-11-22 at 19 25 31" src="https://user-images.githubusercontent.com/23376033/203403692-4b8c2a49-fe76-4500-bb14-d8ca3<img width="680" alt="Screenshot 2022-11-22 at 19 26 20" src="https://user-images.githubusercontent.com/23376033/203403867-3b72cf09-f5a9-43a0-8574-7fe396707b48.png">
-1381026.png">
-d866.png">
+<img width="687" alt="Screenshot 2022-11-22 at 19 27 34" src="https://user-images.githubusercontent.com/23376033/203404077-0a9488da-1a1b-497d-86a6-c4413f337ebf.png">
+
 
