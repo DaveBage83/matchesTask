@@ -49,5 +49,6 @@ The app has been built to be compatible with iOS16+ currently. For a wider relea
 
 <img src="https://user-images.githubusercontent.com/23376033/203408713-0cb3299b-83b3-484d-a9ba-946a6b016e2f.gif" width="40" height="40" />
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
