@@ -7,5 +7,6 @@
 */
 
 "home.title" = "Women's";
+"home.warning" = "Sorry, we couldn't connect to the server. Please try again later.";
 "productdetails.title" = "Details";
 "productdetails.button" = "View on web";
