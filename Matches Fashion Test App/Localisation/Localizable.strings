@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Matches Fashion Test App
+
+  Created by David Bage on 22/11/2022.
+  
+*/
+
+"home.title" = "Women's";
+"productdetails.title" = "Details";
+"productdetails.button" = "View on web";

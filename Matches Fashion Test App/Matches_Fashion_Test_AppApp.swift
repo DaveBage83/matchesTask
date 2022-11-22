@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct Matches_Fashion_Test_AppApp: App {
+    @State var environment: AppEnvironment = AppEnvironment.bootstrap()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GeometryReader { proxy in
+                HomeView(viewModel: .init(container: environment.container))
+                    .environment(\.mainWindowSize, proxy.size)
+            }
         }
     }
 }
