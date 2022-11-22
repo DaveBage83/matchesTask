@@ -51,6 +51,8 @@ The app has been built to be compatible with iOS16+ currently. For a wider relea
 
 <img width="946" alt="Screenshot 2022-11-22 at 19 29 55" src="https://user-images.githubusercontent.com/23376033/203404438-e5852f4a-9824-4cab-a791-6fd1d18f8fd7.png">
 
+<img width="422" alt="Screenshot 2022-11-22 at 20 05 28" src="https://user-images.githubusercontent.com/23376033/203410715-ac6aa3f8-ac3b-429f-bcd0-4f5b372dce10.png">
+
 ### GIF:
 ![matchesEdited](https://user-images.githubusercontent.com/23376033/203408713-0cb3299b-83b3-484d-a9ba-946a6b016e2f.gif)
 
