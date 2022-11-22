@@ -2,7 +2,6 @@
 
 ## Purpose
 An application displaying a list of products available to purchase from a luxury fashion brand and enabling users to view additional details of each product, navigate to the products web page and select currencies.
-This project was created as part of a recruitment process.
 
 ## Future plans - OFFLINE MODE
 
