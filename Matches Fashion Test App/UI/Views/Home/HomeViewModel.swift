@@ -21,6 +21,7 @@ class HomeViewModel: ObservableObject {
     @Published var selectedCurrency: CurrencyType = .gbp
     @Published var selectedProduct: Product?
     @Published var isLoading = false
+    @Published var showUnableToFetchProductsWarning = false
     
     // Hard-coded currencies
     let availableCurrencies: [CurrencyOption] = [
@@ -45,6 +46,7 @@ class HomeViewModel: ObservableObject {
         isLoading = true
         await getGetAllCurrencies()
         await getWomensProducts()
+        showUnableToFetchProductsWarning = products == nil
         isLoading = false
     }
     

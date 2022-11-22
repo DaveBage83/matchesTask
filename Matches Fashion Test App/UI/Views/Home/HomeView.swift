@@ -39,6 +39,11 @@ struct HomeView: View {
             static let spacing: CGFloat = 20
             static let minCardWidth: CGFloat = 150
         }
+        
+        struct Warning {
+            static let serverWarningFontSize: CGFloat = 18
+            static let topPadding: CGFloat = 100
+        }
     }
     
     // MARK: - View model
@@ -53,10 +58,19 @@ struct HomeView: View {
     var body: some View {
         NavigationView {
             ScrollView {
-                LazyVGrid(columns: columns, spacing: Constants.Grid.spacing) {
-                    productCards
+                if viewModel.showUnableToFetchProductsWarning {
+                    Text(Strings.Home.serverWarning.localized)
+                        .font(.system(size: Constants.Warning.serverWarningFontSize))
+                        .bold()
+                        .multilineTextAlignment(.center)
+                        .padding()
+                        .padding(.top, Constants.Warning.topPadding)
+                } else {
+                    LazyVGrid(columns: columns, spacing: Constants.Grid.spacing) {
+                        productCards
+                    }
+                    .padding()
                 }
-                .padding()
             }
             .navigationTitle(Strings.Home.title.localized)
             .navigationBarTitleDisplayMode(.inline)

@@ -12,6 +12,7 @@ typealias IterableMatchesString = MatchesString & CaseIterable
 public enum Strings {
     public enum Home: String, IterableMatchesString {        
         case title = "home.title"
+        case serverWarning = "home.warning"
     }
     
     public enum Details: String, IterableMatchesString {
