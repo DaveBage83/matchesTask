@@ -8,9 +8,10 @@ This project was created as part of a recruitment process.
 This project is written primarily in SwiftUI and uses Apple's Combine framework along with async / await.
 
 ## Unit testing
-Note that SnapShot tests are included here. In order for these to work, you will need to:
+Note that SnapShot tests are included here. When UI is changed, in order for these to work, you will need to:
 - run the 'record' tasks first (comment out the 'assert' tasks). This will create a snapshot of the target views. Tests will FAIL at this point
 - once recorded, comment out the 'record' tasks and uncomment the 'assert' ones. Run again and tests will compare the new snapshots with those recorded. These should now pass..
+NB: some issues have been found previously when running tests on different device models. In these cases you may need to re record the tests for them to pass. Looking into a solution for this. 
 
 ## Currencies
 The application uses a third party endpoint to get currency data. In order to avoid unnecessary server calls, a cache system has been included. Currencies will be stored locally (using Core Data) and will expire after 20 minutes. After this, whenever the user tries to change currency, cache will be deleted and a new server call triggered to refresh the data.
