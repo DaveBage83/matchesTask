@@ -33,3 +33,11 @@ The app supports light and dark mode and has been tested on a variety of device 
 
 ## iOS version support
 The app has been built to be compatible with iOS16+ currently. For a wider release, iOS15 should be supported as a minimum
+
+## Screen shots
+<img width="449" alt="Screenshot 2022-11-22 at 17 29 30" src="https://user-images.githubusercontent.com/23376033/203381687-477cac2d-822e-46a6-8c12-66f9b1629536.png">
+<img width="440" alt="Screenshot 2022-11-22 at 17 29 45" src="https://user-images.githubusercontent.com/23376033/203381737-151a6510-c64f-4793-9ec8-61ea0a793745.png">
+<img width="444" alt="Screenshot 2022-11-22 at 17 30 13" src="https://user-images.githubusercontent.com/23376033/203381825-698b9d12-2b4d-4bb5-a43f-9328748ad510.png">
+<img width="435" alt="Screenshot 2022-11-22 at 17 30 24" src="https://user-images.githubusercontent.com/23376033/203381855-043ceb81-dac0-476f-a8ce-bfd318f<img width="441" alt="Screenshot 2022-11-22 at 17 30 44" src="https://user-images.githubusercontent.com/23376033/203381918-a5a160f0-e604-437a-b1fb-50c2fa6d255d.png">
+238b8.png"><img width="443" alt="Screenshot 2022-11-22 at 17 30 57" src="https://user-images.githubusercontent.com/23376033/203381950-b08eb35a-727a-4edd-9efa-682825621cc0.png">
+
