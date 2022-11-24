@@ -13,6 +13,9 @@ The project has been written in a way which should be scalable and testable. Cur
 
 An image cache system can also be built using core data. Binary data would be stored to the database and extracted via the persistent layer.
 
+#### Error handling
+I would like to implement some error handling - potentially a toast system, which would be triggered globally by appending errors to a property in the appState so that they can be triggered from anywhere in the app and on any view seamlessly. I would also like to replace currently implemented print statements with a proper logging system, potentially leveraging OSLog.
+
 ## Technologies used
 This project is written primarily in SwiftUI and uses Apple's Combine framework along with async / await.
 
